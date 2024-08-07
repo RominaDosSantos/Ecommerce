@@ -32,3 +32,9 @@
   background-color: #8df6e9;
   color: black;
 }
+
+.imageContainer {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top right;
+}

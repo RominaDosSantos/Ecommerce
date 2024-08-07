@@ -33,10 +33,7 @@ const LandingPage = () => {
             className={styles.imageContainer}
             sx={{
               backgroundImage: "url('../landing-photo.jpg')",
-              backgroundRepeat: "no-repeat",
-              backgroundSize: "cover",
-              backgroundPosition: "right",
-              height: 500,
+              height: "600px !important", 
             }}
           />
         </Grid>
